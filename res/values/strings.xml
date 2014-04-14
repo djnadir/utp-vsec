@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">UTP Vsec</string>
+    <string name="show_name">Details</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="allowed_users">Allowed Users</string>
+    <string name="scan">Scan a tag!</string>
+    
+    <string name="name_short">UTP VSec</string>
+    <string name="name_long">UTP Vehicle Security!</string>
+    <string name="property">property of</string>
+    <string name="university">Universiti Teknologi PETRONAS</string>
+</resources>
